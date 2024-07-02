@@ -1,0 +1,27 @@
+.flex {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.flex div{
+
+}
+
+.flex img{
+
+}
+
+.divClass
+{
+    border-style: solid;
+    border-color: lightgray;
+    box-shadow: 5px 10px lightgray;
+    margin: 20px;
+    padding: 5px;
+    text-align: center;
+}
+
+p{
+    color:purple;
+}
